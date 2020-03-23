@@ -1,5 +1,5 @@
 # Magic Square
-###[Forming a Magic Square(Task)](./magic-square-forming-English.pdf)
+[Forming a Magic Square(Task)](./magic-square-forming-English.pdf)
 ## How to test:
 1. Clone this repository
 2. `npm intsall`
