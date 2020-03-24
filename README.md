@@ -6,7 +6,9 @@
 1. Clone this repository
 2. `npm intsall`
 3. `npm test`
-##How to use:
+
+## How to use:
+
 1. Clone this repository
 2. `npm intsall`
 3. In your file `const { magicSquare } = require('../src/index');`
