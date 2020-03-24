@@ -1,5 +1,5 @@
 # Magic Square
-[![Build Status](https://travis-ci.com/boivlad/magic-square.svg?branch=algorithm)](https://travis-ci.com/boivlad/magic-square)
+[![Build Status](https://travis-ci.com/boivlad/magic-square.svg?branch=master)](https://travis-ci.com/boivlad/magic-square)
 
 ### [Forming a Magic Square(Task)](./magic-square-forming-English.pdf)
 
