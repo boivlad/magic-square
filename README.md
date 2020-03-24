@@ -1,4 +1,5 @@
 # Magic Square
+[![Build Status](https://travis-ci.com/boivlad/magic-square.svg?branch=algorithm)](https://travis-ci.com/boivlad/magic-square)
 ###[Forming a Magic Square(Task)](./magic-square-forming-English.pdf)
 ## How to test:
 1. Clone this repository
