@@ -10,7 +10,7 @@ const combinations = [
 ];
 
 module.exports.magicSquare = (array) => {
-  let result = 10;
+  let result = 100;
   for (let i = 0; i < 8; i++) {
     let total = 0;
     const currentPattern = combinations[i];
